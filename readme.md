@@ -7,4 +7,4 @@
 > To be, or not to be. It's not a relevant question.
 
 ##TUT 1
-![]("Tut1Shader.png")
+![](Tut1Shader.png)
