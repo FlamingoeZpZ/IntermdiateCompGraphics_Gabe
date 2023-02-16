@@ -11,7 +11,7 @@ Shader "Custom/Blinn"
     {
         Tags
         {
-            "Queue" = "Geometry"
+            "Queue" = "Geometry" 
         }
         
         CGPROGRAM
